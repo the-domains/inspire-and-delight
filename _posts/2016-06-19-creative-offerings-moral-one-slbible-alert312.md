@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=BkHf5vKYxkk&sns=fb'
 title: 'Creative Offerings: Moral One (@slbible @alert312)'
-datePublished: '2016-06-19T22:00:02.586Z'
-dateModified: '2016-06-19T21:59:39.502Z'
+datePublished: '2016-06-19T22:04:06.331Z'
+dateModified: '2016-06-19T21:59:58.159Z'
 starred: false
 sourcePath: _posts/2016-06-19-creative-offerings-moral-one-slbible-alert312.md
 inFeed: true
