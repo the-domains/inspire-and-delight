@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[INSPIRE AND DELIGHT]]></title>
         <description><![CDATA[INSPIRE AND DELIGHT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inspire-and-delight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 22:00:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 19 Jun 2016 22:04:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inspire-and-delight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Creative Offerings: Moral One (@slbible @alert312)]]></title>
-            <description><![CDATA[<article><h1>Creative Offerings: Moral One (@slbible @alert312)</h1><p>Moral One: ALERT312 producer & Streetlights Bible audio production manager takes us through his creative process as he handles the production for the book of Titus. You can download the book of Titus for FREE at : http://www.streetlightsbible.com/titusdownload Camera Hands: Matthew Bowie, Esteban Shedd, Loren La Luz</p></article>]]></description>
+            <description><![CDATA[<article><h1>Creative Offerings: Moral One (@slbible @alert312)</h1><p>Moral One: ALERT312 producer & Streetlights Bible audio production manager takes us through his creative process as he handles the production for the book of Titus. You can download the book of Titus for FREE at : http://www.streetlightsbible.com/titusdownload Camera Hands: Matthew Bowie, Esteban Shedd, Loren La Luz</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc3ca2888b7610b5dd855b55a607064b/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FBkHf5vKYxkk%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=BkHf5vKYxkk&amp;sns=fb</link>
+            <guid isPermaLink="false">8ff8faad-bf55-48b5-96c4-440e1c3ba194</guid>
+            <pubDate>Sun, 19 Jun 2016 22:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creative Offerings: Moral One (@slbible @alert312)]]></title>
+            <description><![CDATA[<article><h1>Creative Offerings: Moral One (@slbible @alert312)</h1><p>Moral One: ALERT312 producer & Streetlights Bible audio production manager takes us through his creative process as he handles the production for the book of Titus. You can download the book of Titus for FREE at : http://www.streetlightsbible.com/titusdownload Camera Hands: Matthew Bowie, Esteban Shedd, Loren La Luz</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc3ca2888b7610b5dd855b55a607064b/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FBkHf5vKYxkk%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=BkHf5vKYxkk&amp;sns=fb</link>
             <guid isPermaLink="false">e5dfdaa3-0c4e-41d3-b4e1-00a818034b58</guid>
             <pubDate>Sun, 19 Jun 2016 22:00:02 GMT</pubDate>
