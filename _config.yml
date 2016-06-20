@@ -16,15 +16,15 @@ collections:
       number: 10
 color:
   saturation: 0.3263488986995071
-  brandStrength: 0.8115034124348313
-  rhythmicContrast: 0.001227819360792637
-  brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
+  brandStrength: 1
   lightness: 0.3491008342243731
+  brandColors:
+    - '#2D1523'
+    - '#F7F8FA'
+    - '#C5D0E3'
+    - '#4E567B'
+    - '#6B84AD'
+  rhythmicContrast: 0.001227819360792637
 typography_spectrum: 0.4789233859628439
 layout_spectrum: 0.9672395
 name: INSPIRE AND DELIGHT
