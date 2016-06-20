@@ -8,23 +8,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3263488986995071
   brandStrength: 1
-  lightness: 0.3491008342243731
+  rhythmicContrast: 0.001227819360792637
   brandColors:
     - '#2D1523'
     - '#F7F8FA'
     - '#C5D0E3'
     - '#4E567B'
     - '#6B84AD'
-  rhythmicContrast: 0.001227819360792637
-typography_spectrum: 0.4301826
+  lightness: 0.3491008342243731
+typography_spectrum: 0.5837809
 layout_spectrum: 0.9672395
 name: INSPIRE AND DELIGHT
