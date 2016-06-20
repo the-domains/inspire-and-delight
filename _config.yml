@@ -15,16 +15,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.3263488986995071
-  brandStrength: 1
-  rhythmicContrast: 0.001227819360792637
+  saturation: 0.06054829410277307
+  brandStrength: 0.11149191786535084
+  rhythmicContrast: 0.7055893025826663
   brandColors:
-    - '#2D1523'
-    - '#F7F8FA'
-    - '#C5D0E3'
-    - '#4E567B'
-    - '#6B84AD'
-  lightness: 0.3491008342243731
-typography_spectrum: 0.5837809
-layout_spectrum: 0.9672395
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  lightness: 0.16512341145426035
+typography_spectrum: 0.6101561961695552
+layout_spectrum: 0.17928510857746005
 name: INSPIRE AND DELIGHT
