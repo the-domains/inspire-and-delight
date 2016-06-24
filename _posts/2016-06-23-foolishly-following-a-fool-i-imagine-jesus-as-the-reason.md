@@ -2,8 +2,8 @@
 description: >-
   I imagine Jesus as the reason for all mankind. But His Holy wisdom is foolish
   to man—I must seem out of my mind.
-dateModified: '2016-06-23T23:50:54.743Z'
-datePublished: '2016-06-23T23:51:21.003Z'
+dateModified: '2016-06-24T00:30:25.771Z'
+datePublished: '2016-06-24T00:33:58.822Z'
 title: Foolishly Following A Fool
 author: []
 sourcePath: _posts/2016-06-23-foolishly-following-a-fool-i-imagine-jesus-as-the-reason.md
